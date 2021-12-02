@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Calculator App
+This project represents a calculator app created using Reactjs. This app performs basic calculations like addition, subtraction, multiplicattion and division.
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
